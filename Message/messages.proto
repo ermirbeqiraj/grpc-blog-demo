@@ -1,0 +1,28 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Messages";
+
+/* base type for location */
+message Location{
+	int32 deviceId = 1;
+	string  latitude = 2;
+	string longitude = 3;
+}
+
+
+/* client asking for all locations */
+message GetAllRequest {}
+
+/* response with all locations */
+message GetAllResponse {
+  Location location = 1;
+}
+
+
+/* service: this denotes the services we will serve, which will make use of previous message type declarations */
+service InvoiceService{
+
+	/* this will instruct the compiler that InvoiceService will have a method named GetAll, which takes as 
+	argument a GetAllRequest and returns a stream of GetAllResponse */
+	rpc GetAll(GetAllRequest) returns (stream GetAllResponse);
+}

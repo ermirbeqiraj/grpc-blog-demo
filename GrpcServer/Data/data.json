@@ -1,0 +1,502 @@
+[
+  {
+    "DeviceId": 142,
+    "Latitude": "73.90236",
+    "Longitude": "122.82297"
+  },
+  {
+    "DeviceId": 116,
+    "Latitude": "-30.11568",
+    "Longitude": "101.70173"
+  },
+  {
+    "DeviceId": 120,
+    "Latitude": "51.22582",
+    "Longitude": "92.28525"
+  },
+  {
+    "DeviceId": 117,
+    "Latitude": "-20.40361",
+    "Longitude": "-44.36764"
+  },
+  {
+    "DeviceId": 111,
+    "Latitude": "60.16598",
+    "Longitude": "123.99095"
+  },
+  {
+    "DeviceId": 102,
+    "Latitude": "-56.69104",
+    "Longitude": "-23.68447"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "-55.19208",
+    "Longitude": "-4.09217"
+  },
+  {
+    "DeviceId": 102,
+    "Latitude": "-66.56386",
+    "Longitude": "-12.93355"
+  },
+  {
+    "DeviceId": 117,
+    "Latitude": "-76.84136",
+    "Longitude": "-140.409"
+  },
+  {
+    "DeviceId": 119,
+    "Latitude": "58.31661",
+    "Longitude": "-108.1139"
+  },
+  {
+    "DeviceId": 115,
+    "Latitude": "71.27088",
+    "Longitude": "63.48083"
+  },
+  {
+    "DeviceId": 149,
+    "Latitude": "71.08249",
+    "Longitude": "-150.20107"
+  },
+  {
+    "DeviceId": 129,
+    "Latitude": "48.68037",
+    "Longitude": "163.27328"
+  },
+  {
+    "DeviceId": 143,
+    "Latitude": "-50.99923",
+    "Longitude": "-93.94978"
+  },
+  {
+    "DeviceId": 102,
+    "Latitude": "68.30874",
+    "Longitude": "-141.03152"
+  },
+  {
+    "DeviceId": 111,
+    "Latitude": "7.02899",
+    "Longitude": "-31.87175"
+  },
+  {
+    "DeviceId": 110,
+    "Latitude": "-61.18898",
+    "Longitude": "-86.95254"
+  },
+  {
+    "DeviceId": 118,
+    "Latitude": "72.79232",
+    "Longitude": "-59.01513"
+  },
+  {
+    "DeviceId": 121,
+    "Latitude": "51.75363",
+    "Longitude": "133.71437"
+  },
+  {
+    "DeviceId": 108,
+    "Latitude": "-64.23621",
+    "Longitude": "61.67733"
+  },
+  {
+    "DeviceId": 107,
+    "Latitude": "-43.89339",
+    "Longitude": "19.0307"
+  },
+  {
+    "DeviceId": 101,
+    "Latitude": "66.78551",
+    "Longitude": "100.63506"
+  },
+  {
+    "DeviceId": 121,
+    "Latitude": "41.95761",
+    "Longitude": "-48.26093"
+  },
+  {
+    "DeviceId": 137,
+    "Latitude": "63.95521",
+    "Longitude": "-142.51463"
+  },
+  {
+    "DeviceId": 136,
+    "Latitude": "25.23589",
+    "Longitude": "-151.90387"
+  },
+  {
+    "DeviceId": 147,
+    "Latitude": "58.90508",
+    "Longitude": "60.73189"
+  },
+  {
+    "DeviceId": 141,
+    "Latitude": "-88.98924",
+    "Longitude": "-53.65829"
+  },
+  {
+    "DeviceId": 109,
+    "Latitude": "27.55382",
+    "Longitude": "-82.49789"
+  },
+  {
+    "DeviceId": 126,
+    "Latitude": "-83.21358",
+    "Longitude": "95.98014"
+  },
+  {
+    "DeviceId": 107,
+    "Latitude": "-42.09947",
+    "Longitude": "74.62673"
+  },
+  {
+    "DeviceId": 127,
+    "Latitude": "-65.57829",
+    "Longitude": "-126.11905"
+  },
+  {
+    "DeviceId": 143,
+    "Latitude": "77.34313",
+    "Longitude": "-94.0669"
+  },
+  {
+    "DeviceId": 115,
+    "Latitude": "28.72346",
+    "Longitude": "-128.9368"
+  },
+  {
+    "DeviceId": 147,
+    "Latitude": "-84.21753",
+    "Longitude": "117.29556"
+  },
+  {
+    "DeviceId": 111,
+    "Latitude": "47.37824",
+    "Longitude": "-32.43364"
+  },
+  {
+    "DeviceId": 124,
+    "Latitude": "-7.06935",
+    "Longitude": "-63.6478"
+  },
+  {
+    "DeviceId": 124,
+    "Latitude": "-72.70769",
+    "Longitude": "-21.76951"
+  },
+  {
+    "DeviceId": 141,
+    "Latitude": "-42.25714",
+    "Longitude": "-63.61512"
+  },
+  {
+    "DeviceId": 124,
+    "Latitude": "2.50859",
+    "Longitude": "34.77446"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "-89.6908",
+    "Longitude": "57.62486"
+  },
+  {
+    "DeviceId": 139,
+    "Latitude": "86.05165",
+    "Longitude": "-97.01883"
+  },
+  {
+    "DeviceId": 143,
+    "Latitude": "-55.35587",
+    "Longitude": "-41.39774"
+  },
+  {
+    "DeviceId": 100,
+    "Latitude": "-35.386",
+    "Longitude": "26.5676"
+  },
+  {
+    "DeviceId": 123,
+    "Latitude": "18.06407",
+    "Longitude": "2.2616"
+  },
+  {
+    "DeviceId": 110,
+    "Latitude": "24.55054",
+    "Longitude": "101.62922"
+  },
+  {
+    "DeviceId": 113,
+    "Latitude": "-55.33681",
+    "Longitude": "103.64048"
+  },
+  {
+    "DeviceId": 120,
+    "Latitude": "71.71109",
+    "Longitude": "-5.31006"
+  },
+  {
+    "DeviceId": 142,
+    "Latitude": "16.24624",
+    "Longitude": "-160.15403"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "-32.20638",
+    "Longitude": "-43.29163"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "-67.22812",
+    "Longitude": "139.61239"
+  },
+  {
+    "DeviceId": 103,
+    "Latitude": "-54.04152",
+    "Longitude": "165.6515"
+  },
+  {
+    "DeviceId": 131,
+    "Latitude": "19.27115",
+    "Longitude": "-1.633"
+  },
+  {
+    "DeviceId": 118,
+    "Latitude": "44.50412",
+    "Longitude": "29.99831"
+  },
+  {
+    "DeviceId": 107,
+    "Latitude": "-40.74461",
+    "Longitude": "164.48472"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "84.14483",
+    "Longitude": "62.1638"
+  },
+  {
+    "DeviceId": 106,
+    "Latitude": "23.11934",
+    "Longitude": "104.17583"
+  },
+  {
+    "DeviceId": 109,
+    "Latitude": "-32.7964",
+    "Longitude": "-145.99813"
+  },
+  {
+    "DeviceId": 136,
+    "Latitude": "7.13345",
+    "Longitude": "-179.59738"
+  },
+  {
+    "DeviceId": 142,
+    "Latitude": "41.55527",
+    "Longitude": "145.35884"
+  },
+  {
+    "DeviceId": 100,
+    "Latitude": "39.26655",
+    "Longitude": "83.28973"
+  },
+  {
+    "DeviceId": 123,
+    "Latitude": "-48.65611",
+    "Longitude": "-172.77398"
+  },
+  {
+    "DeviceId": 121,
+    "Latitude": "79.42656",
+    "Longitude": "-134.03764"
+  },
+  {
+    "DeviceId": 130,
+    "Latitude": "53.58275",
+    "Longitude": "-153.45831"
+  },
+  {
+    "DeviceId": 135,
+    "Latitude": "75.75317",
+    "Longitude": "-124.80462"
+  },
+  {
+    "DeviceId": 103,
+    "Latitude": "15.02446",
+    "Longitude": "3.09366"
+  },
+  {
+    "DeviceId": 101,
+    "Latitude": "27.06496",
+    "Longitude": "102.08173"
+  },
+  {
+    "DeviceId": 125,
+    "Latitude": "-81.37007",
+    "Longitude": "-171.27852"
+  },
+  {
+    "DeviceId": 138,
+    "Latitude": "-66.20609",
+    "Longitude": "62.1699"
+  },
+  {
+    "DeviceId": 100,
+    "Latitude": "36.09557",
+    "Longitude": "-78.81955"
+  },
+  {
+    "DeviceId": 103,
+    "Latitude": "-24.50639",
+    "Longitude": "53.7226"
+  },
+  {
+    "DeviceId": 106,
+    "Latitude": "-48.77011",
+    "Longitude": "-87.7171"
+  },
+  {
+    "DeviceId": 146,
+    "Latitude": "-4.62265",
+    "Longitude": "66.41495"
+  },
+  {
+    "DeviceId": 102,
+    "Latitude": "54.26031",
+    "Longitude": "9.92059"
+  },
+  {
+    "DeviceId": 131,
+    "Latitude": "82.20878",
+    "Longitude": "23.49505"
+  },
+  {
+    "DeviceId": 125,
+    "Latitude": "36.29898",
+    "Longitude": "-89.69312"
+  },
+  {
+    "DeviceId": 108,
+    "Latitude": "0.57592",
+    "Longitude": "90.5076"
+  },
+  {
+    "DeviceId": 117,
+    "Latitude": "-70.80647",
+    "Longitude": "-75.20169"
+  },
+  {
+    "DeviceId": 140,
+    "Latitude": "16.10197",
+    "Longitude": "-50.41594"
+  },
+  {
+    "DeviceId": 129,
+    "Latitude": "15.6877",
+    "Longitude": "-138.89087"
+  },
+  {
+    "DeviceId": 101,
+    "Latitude": "40.31969",
+    "Longitude": "-179.45612"
+  },
+  {
+    "DeviceId": 133,
+    "Latitude": "20.34025",
+    "Longitude": "108.78559"
+  },
+  {
+    "DeviceId": 110,
+    "Latitude": "69.14588",
+    "Longitude": "-177.69164"
+  },
+  {
+    "DeviceId": 123,
+    "Latitude": "66.31377",
+    "Longitude": "93.94088"
+  },
+  {
+    "DeviceId": 113,
+    "Latitude": "-27.64769",
+    "Longitude": "64.34339"
+  },
+  {
+    "DeviceId": 115,
+    "Latitude": "84.09687",
+    "Longitude": "-61.28078"
+  },
+  {
+    "DeviceId": 106,
+    "Latitude": "-18.12942",
+    "Longitude": "-82.57493"
+  },
+  {
+    "DeviceId": 119,
+    "Latitude": "33.68858",
+    "Longitude": "-8.99224"
+  },
+  {
+    "DeviceId": 103,
+    "Latitude": "-20.99947",
+    "Longitude": "175.7791"
+  },
+  {
+    "DeviceId": 113,
+    "Latitude": "37.01669",
+    "Longitude": "-74.38439"
+  },
+  {
+    "DeviceId": 108,
+    "Latitude": "-32.19967",
+    "Longitude": "49.88054"
+  },
+  {
+    "DeviceId": 105,
+    "Latitude": "42.40635",
+    "Longitude": "-119.89427"
+  },
+  {
+    "DeviceId": 140,
+    "Latitude": "-31.32528",
+    "Longitude": "54.54577"
+  },
+  {
+    "DeviceId": 107,
+    "Latitude": "4.40333",
+    "Longitude": "170.94888"
+  },
+  {
+    "DeviceId": 136,
+    "Latitude": "-16.36049",
+    "Longitude": "-85.82651"
+  },
+  {
+    "DeviceId": 132,
+    "Latitude": "-89.26629",
+    "Longitude": "-177.71109"
+  },
+  {
+    "DeviceId": 130,
+    "Latitude": "13.74752",
+    "Longitude": "119.82274"
+  },
+  {
+    "DeviceId": 144,
+    "Latitude": "48.91063",
+    "Longitude": "82.91756"
+  },
+  {
+    "DeviceId": 139,
+    "Latitude": "-50.04467",
+    "Longitude": "0.24937"
+  },
+  {
+    "DeviceId": 126,
+    "Latitude": "-56.86094",
+    "Longitude": "75.43417"
+  },
+  {
+    "DeviceId": 133,
+    "Latitude": "-48.86603",
+    "Longitude": "100.8552"
+  }
+]
